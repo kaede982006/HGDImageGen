@@ -1,0 +1,9 @@
+﻿.vs/
+*.user
+*.suo
+*.ipch
+*.vsidx
+x64/
+Debug/
+Release/
+obj/

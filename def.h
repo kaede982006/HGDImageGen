@@ -1,0 +1,22 @@
+#ifndef __DEF_H__
+#define __DEF_H__
+
+#define HGD_VERSION "1.0.1"
+
+#define DEFAULT_TILE_SIZE 30
+#define DEFAULT_START_X 15
+#define DEFAULT_START_Y 15
+#define DEFAULT_MAX_CHANNELS 999
+#define DEFAULT_MAX_OBJECTS 50000
+#define DEFAULT_QUANT_STEP 32
+#define DEFAULT_ALPHA_STEP 32
+#define DEFAULT_OBJECT_ID 211
+
+#define DEFAULT_LEVEL_NAME "HGDImageGen"
+#define DEFAULT_OUTPUT_PATH "output.gmd"
+#define DEFAULT_LOG_PATH "hgdimagegen.log"
+
+#define COLOR_MAP_LOAD_FACTOR_NUM 7
+#define COLOR_MAP_LOAD_FACTOR_DEN 10
+
+#endif
